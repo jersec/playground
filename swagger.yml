@@ -2,8 +2,8 @@ openapi: 3.0.3
 info:
   title: Your session has expired.
   description: 
-    <h1>Please log in to continue.</h1>
-    <h1><a href="https://example.com">Log in</a>
+    <h2>Please log in to continue.</h2>
+    <a href="https://example.com">Log in</a>
   version: Security
 
 paths:
